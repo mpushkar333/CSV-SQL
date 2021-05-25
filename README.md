@@ -1,4 +1,4 @@
-# csvSqlPython (Really should have named it better... It just helps transforming data from CSV format to SQL format)
+
 
 ## Converting csv files to SQL using Python demo project
 
